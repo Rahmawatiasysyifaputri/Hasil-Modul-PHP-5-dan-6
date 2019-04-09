@@ -22,4 +22,18 @@ Setelah klik cari maka akan muncul data Matakuliah kesehatan saja
 ![alt text](https://github.com/Rahmawatiasysyifaputri/Hasil-Modul-PHP-5-dan-6/blob/master/tiga,%20yang%20muncul%20hanya%20data%20matkul%20kesehatan.PNG?raw=true)
 
 Seperti itu dan seterusnya, dalam pencarian data Matakuliah kita memiliki 4 opsi pencarian, yaitu: Matakuliah, Dosen, SKS, dan Semester.
+
+
+Sekarang kita beralih ke Php My Admin.Disini saya sudah membuat db_pendaftaran_mhs, berisi 2 data yaitu:mahasiswa baru dan program studi
+![alt text](https://github.com/Rahmawatiasysyifaputri/Hasil-Modul-PHP-5-dan-6/blob/master/php%20my%20admin,%20db%20mahasiswa%201.PNG?raw=true)
+
+Kita buka data mahasiswa baru
+![alt text](https://github.com/Rahmawatiasysyifaputri/Hasil-Modul-PHP-5-dan-6/blob/master/phpmyadmin,%20data%20mahasiswa%20baru.PNG?raw=true)
+
+Lalu, buka data program studi
+![alt text](https://github.com/Rahmawatiasysyifaputri/Hasil-Modul-PHP-5-dan-6/blob/master/phpmyadmin,%20data%20program%20studi.PNG?raw=true)
+
+Saya disini juga sudah membuat relasi antara mahasiswa baru dan program studi
+![alt text](https://github.com/Rahmawatiasysyifaputri/Hasil-Modul-PHP-5-dan-6/blob/master/phpmyadmin,%20relasi.PNG?raw=true)
+
 Terimakasih, mohon bantuannya dalam belajar ya pak ;)
